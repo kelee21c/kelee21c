@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kelee21c
+- 👋 Hi, I’m @kelee21c, currently working in United States as a Control Technician.
 - 👀 I’m interested in computer science and everything about computer, and enterprise.
 - 🌱 I’m currently learning the world of computer and Information Technology. Of course programming is one of them, especially interested in Python.
 - 💞️ I’m looking to collaborate on ...
